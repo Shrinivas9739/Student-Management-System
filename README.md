@@ -27,6 +27,7 @@ A **desktop-based Java application** to manage student records including **addin
 
 ---
 ## 📁 Project Structure
+```
 ├── Login.java
 ├── Dashboard.java
 ├── AddStudent.java
@@ -35,6 +36,7 @@ A **desktop-based Java application** to manage student records including **addin
 ├── EditStudent2.java
 ├── ViewStudents.java
 └── Con.java
+```
 
 ## 🔒 Default Login Credentials
 **Username: admin**
