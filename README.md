@@ -39,8 +39,8 @@ A **desktop-based Java application** to manage student records including **addin
 ```
 
 ## 🔒 Default Login Credentials
-**Username: admin**
-**Password: 1234**
+- **Username: admin**
+- **Password: 1234**
 
 ## ⚠️ Credentials are currently hardcoded. You can enhance it by integrating a users table or using secure password storage.
 
